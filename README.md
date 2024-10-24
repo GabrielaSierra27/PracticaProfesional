@@ -1,1 +1,1 @@
-# ProyectoGrado
+# Práctica Profesional
